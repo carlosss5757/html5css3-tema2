@@ -95,7 +95,7 @@ h2
 {
   border-width: 15px 15px 0 15px; 
   border-style: solid; 
-  border-image-source: url(../imgs/movil.png); 
+  border-image-source: url(movil.png); 
   border-image-slice: 45;
   border-image-repeat: stretch;
   height: 10px;
@@ -107,7 +107,7 @@ h2
   background-color: white;
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
-  border-image-source: url(../imgs/movil.png);
+  border-image-source: url(movil.png);
   border-image-slice: 45 45 45 45;
   border-image-width: 0 15px 0 15px;
   border-image-repeat: stretch;
@@ -121,7 +121,7 @@ h2
 {
   border-width: 0 15px 15px 15px; 
   border-style: solid; 
-  border-image-source: url(../imgs/movil.png); 
+  border-image-source: url(movil.png); 
   border-image-slice: 45;
   border-image-repeat: stretch;
   height: 10px;
